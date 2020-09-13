@@ -1,68 +1,44 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Quiz App
 
-## Available Scripts
+A quiz application build in react to conduct Multiple Choice Questions quizzes.<br />
+The application has the following features:
 
-In the project directory, you can run:
+•	Quiz contain Multiple Choice Questions up to four choices.
 
-### `npm start`
+•	User can view the all the answers at the end of the quiz if user wishes to do so.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+•	User can start the quiz again without looking at all the correct answers if user wishes to do so.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+•	User can see the current score after every question, no need to wait for the score at the end of the quiz.
 
-### `npm test`
+•	Next button will be enabled after one option/answer is selected.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+•	Submit button will be enabled after all questions are answered.
 
-### `npm run build`
+•	Quiz can be taken in all platform devices.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Basic knowledge about React, styled -component and css, etc.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Getting Started
 
-### `npm run eject`
+•	Clone this repo
+•	`npm install` to get required dependency packages.<br />
+•	`npm install` styled-components to get styled-components package.<br />
+•	`npm start` to start the local server (this project uses create-react-app).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Contributing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+•	If you have problems please leave an issue from [here](https://github.com/meghabisani/react_quiz_app/issues).<br />
+•	Consider forking the project and submitting new pull requests.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### You can reach out 😊😊
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Feel free to contact me about the problems. I will try to help as much as I can 😉<br />
+Mail-Id: meghabisani@outlook.com
 
-## Learn More
+## Acknowledgments
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+•	Getting Better at React.<br />
+•	Learning new stuffs.
